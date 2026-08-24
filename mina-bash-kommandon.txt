@@ -1,4 +1,12 @@
+1. Filsystem och Terminal
+
 Jag började med att starta upp git bash,
 Sedan navigerade vart jag är genom kommandon pwd 
 Därefter skapade jag en ny mapp med kommandon mkdir och gav namnet praktiskt verktygsuppgift
 Sist skapade jag en textfil i mappen med kommandon touch 
+
+2. Git och Versionshantering 
+
+Började med att inisitera en ett nytt git i terminalen med "git init"
+Sedan la jag till en ny commit med "git add . " 
+Därefter gjorde jag första commiten med  git commit -m 'första commit'  där det finns en lista på olika kommandon i README filen. 
