@@ -1,0 +1,4 @@
+Jag började med att starta upp git bash,
+Sedan navigerade vart jag är genom kommandon pwd 
+Därefter skapade jag en ny mapp med kommandon mkdir och gav namnet praktiskt verktygsuppgift
+Sist skapade jag en textfil i mappen med kommandon touch 
