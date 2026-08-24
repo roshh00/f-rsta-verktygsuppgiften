@@ -7,6 +7,7 @@ Sist skapade jag en textfil i mappen med kommandon touch
 
 2. Git och Versionshantering 
 
-Började med att inisitera en ett nytt git i terminalen med "git init"
-Sedan la jag till en ny commit med "git add . " 
-Därefter gjorde jag första commiten med  git commit -m 'första commit'  där det finns en lista på olika kommandon i README filen. 
+Började med att inisitera en ett nytt git i terminalen med git init
+Sedan la jag till en ny commit med git add
+Jag la till i min readme fil om vad en repository innehåller
+Därefter gjorde jag en commit och avslutade med att lägga upp den med git push 
