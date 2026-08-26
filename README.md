@@ -1,18 +1,20 @@
-1. Filsystem och Terminal
+# Beskrivning av uppgift
+
+1. *Filsystem och Terminal*
 
 Jag började med att starta upp git bash,
 Sedan navigerade vart jag är genom kommandon pwd 
 Därefter skapade jag en ny mapp med kommandon mkdir och gav namnet praktiskt verktygsuppgift
 Sist skapade jag en textfil i mappen med kommandon touch 
 
-2. Git och Versionshantering 
+2. *Git och Versionshantering* 
 
 Började med att inisitera en ett nytt git i terminalen med git init
 Sedan la jag till en ny commit med git add
 Jag la till i min readme fil om vad en repository innehåller
 Därefter gjorde jag en commit och avslutade med att lägga upp den med git push 
 
-3. Repository-sammarbete
+3. *Repository-sammarbete*
 
 Gjorde en ny textfil med namnet sammarbete.md och beskrev kort vad ett gemensamt repository används till. 
 Jag markerade en rubrik med hjälp av # och citerade texten med hjälp av > 
