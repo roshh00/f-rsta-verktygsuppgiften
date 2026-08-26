@@ -1,22 +1,19 @@
-# Exempel på Git-kommandon
+1. Filsystem och Terminal
 
-git init – skapar ett repository
+Jag började med att starta upp git bash,
+Sedan navigerade vart jag är genom kommandon pwd 
+Därefter skapade jag en ny mapp med kommandon mkdir och gav namnet praktiskt verktygsuppgift
+Sist skapade jag en textfil i mappen med kommandon touch 
 
-git status – visar vilka filer som ändrats och vad Git känner till
+2. Git och Versionshantering 
 
-git add – lägger till filändringar för nästa commit
+Började med att inisitera en ett nytt git i terminalen med git init
+Sedan la jag till en ny commit med git add
+Jag la till i min readme fil om vad en repository innehåller
+Därefter gjorde jag en commit och avslutade med att lägga upp den med git push 
 
-git commit -m "meddelande" – skapar en version i historiken
+3. Repository-sammarbete
 
-git log - visar tidigare commits
-
-git remote - hanterar repository på git-servern (t ex github)
-
-git branch - hanterar branches
-
-git push - skickar upp aktuell branch till git-servern
-
-git pull - hämtar aktuell branch till git-servern
-
-
-I en repository innehåller dina filer där du har använt dig av i visual studios. Där du kan skicka och göra ändringar via git commit så uppdateras din repository. 
+Gjorde en ny textfil med namnet sammarbete.md och beskrev kort vad ett gemensamt repository används till. 
+Jag markerade en rubrik med hjälp av # och citerade texten med hjälp av > 
+Avslutade med att lägga till det med git add och därefter pusha upp det till mitt repo. 
