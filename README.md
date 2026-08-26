@@ -1,13 +1,21 @@
 # Exempel på Git-kommandon
 
 git init – skapar ett repository
+
 git status – visar vilka filer som ändrats och vad Git känner till
+
 git add – lägger till filändringar för nästa commit
+
 git commit -m "meddelande" – skapar en version i historiken
+
 git log - visar tidigare commits
+
 git remote - hanterar repository på git-servern (t ex github)
+
 git branch - hanterar branches
+
 git push - skickar upp aktuell branch till git-servern
+
 git pull - hämtar aktuell branch till git-servern
 
 
