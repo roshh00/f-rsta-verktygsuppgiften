@@ -1,6 +1,4 @@
-# Första verktygsuppgiften 
-
-Exempel på git kommandon 
+# Exempel på Git-kommandon
 
 git init – skapar ett repository
 git status – visar vilka filer som ändrats och vad Git känner till
