@@ -19,3 +19,5 @@ Därefter gjorde jag en commit och avslutade med att lägga upp den med git push
 Gjorde en ny textfil med namnet sammarbete.md och beskrev kort vad ett gemensamt repository används till. 
 Jag markerade en rubrik med hjälp av # och citerade texten med hjälp av > 
 Avslutade med att lägga till det med git add och därefter pusha upp det till mitt repo. 
+
+>Länk till git-repo " https://github.com/roshh00/f-rsta-verktygsuppgiften.git " 
