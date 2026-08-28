@@ -20,4 +20,4 @@ Gjorde en ny textfil med namnet sammarbete.md och beskrev kort vad ett gemensamt
 Jag markerade en rubrik med hjälp av # och citerade texten med hjälp av > 
 Avslutade med att lägga till det med git add och därefter pusha upp det till mitt repo. 
 
->Länk till git-repo " https://github.com/roshh00/f-rsta-verktygsuppgiften.git " 
+Länk till git-repo " https://github.com/roshh00/f-rsta-verktygsuppgiften.git " 
